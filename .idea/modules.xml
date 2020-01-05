@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUD_employee/CRUD_employee.iml" filepath="$PROJECT_DIR$/CRUD_employee/CRUD_employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RestProjectForTest.iml" filepath="$PROJECT_DIR$/.idea/RestProjectForTest.iml" />
+    </modules>
+  </component>
+</project>
